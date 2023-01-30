@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdf5af56-4c40-4b82-9d8b-8d3a55ec9e0c" name="Changes" comment="" />
+    <list default="true" id="bdf5af56-4c40-4b82-9d8b-8d3a55ec9e0c" name="Changes" comment="test1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2L3bQIDV2ra68uLbDq0VlMHL1YR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,6 +58,25 @@
       <option name="presentableId" value="Default" />
       <updated>1675102697571</updated>
     </task>
+    <task id="LOCAL-00001" summary="test1">
+      <created>1675102867183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675102867183</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test1">
+      <created>1675102877509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675102877509</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
   </component>
 </project>
